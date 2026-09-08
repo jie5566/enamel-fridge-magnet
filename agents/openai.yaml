@@ -1,0 +1,6 @@
+interface:
+  display_name: "Enamel Fridge Magnet"
+  short_description: "Create one transparent enamel magnet from a photo"
+  default_prompt: "Use $enamel-fridge-magnet to turn this photo into one transparent enamel fridge magnet."
+policy:
+  allow_implicit_invocation: true
